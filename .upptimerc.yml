@@ -12,7 +12,7 @@ sites:
   - name: periakron.gr
     url: https://periakron.gr
   - name: kolan4u.gr
-    url: https://1.kolan4u.gr
+    url: https://kolan4u.gr
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
