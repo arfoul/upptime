@@ -58,18 +58,20 @@
     "url": "https://periakron.gr",
     "icon": "https://icons.duckduckgo.com/ip3/periakron.gr.ico",
     "slug": "periakron-gr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1883,
-    "timeDay": 1630,
-    "timeWeek": 1758,
-    "timeMonth": 1902,
-    "timeYear": 1883,
-    "dailyMinutesDown": {}
+    "time": 1862,
+    "timeDay": 1096,
+    "timeWeek": 1608,
+    "timeMonth": 1861,
+    "timeYear": 1862,
+    "dailyMinutesDown": {
+      "2024-11-03": 0
+    }
   },
   {
     "name": "kolan4u.gr",
