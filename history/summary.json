@@ -22,9 +22,9 @@
     "url": "https://clean-spot.gr",
     "icon": "https://icons.duckduckgo.com/ip3/clean-spot.gr.ico",
     "slug": "clean-spot-gr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 1727,
     "timeMonth": 1835,
     "timeYear": 1502,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-12": 0
+    }
   },
   {
     "name": "ianadomi.gr",
@@ -59,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/periakron.gr.ico",
     "slug": "periakron-gr",
     "status": "down",
-    "uptime": "46.05%",
+    "uptime": "46.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "46.05%",
+    "uptimeYear": "46.00%",
     "time": 1241,
     "timeDay": 611,
     "timeWeek": 629,
     "timeMonth": 680,
     "timeYear": 1241,
     "dailyMinutesDown": {
-      "2025-01-12": 44,
+      "2025-01-12": 240,
       "2025-01-11": 1440,
       "2025-01-10": 1440,
       "2025-01-09": 1440,
